@@ -1,0 +1,6 @@
+aiogram==3.28.2
+asyncpg==0.31.0
+beautifulsoup4==4.15.0
+config==0.5.1
+httpx==0.28.1
+python-dotenv==1.2.2
