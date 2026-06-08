@@ -1,0 +1,6 @@
+__pycache__
+.env
+*.db
+*.log
+SQLiteData.py
+*test.py
